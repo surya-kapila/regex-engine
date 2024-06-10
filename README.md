@@ -31,5 +31,4 @@ This project requires a strong understanding of __recursion__ and wonderfully sh
 
 ## Thanks
  This was possible due to Nicholas Drane's [build your own regex](https://github.com/nadrane/build-your-own-regex)
- I was inspired by Rob Pike's [original implementation](https://www.cs.princeton.edu/courses/archive/spr09/cos333/beautiful.html) of this program in c and Peter Norvig's rendition of it in Udacity's ["Design of Computer Programs"](https://www.udacity.com/course/design-of-computer-programs--cs212) course.
 # regex-engine
